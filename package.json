@@ -3,7 +3,7 @@
 	"displayName": "Which Word?",
 	"description": "Guess words that sound like your word",
 	"version": "1.0.0",
-	"icon": "WhichWord-Icon.png",
+	"icon": "/Images/WhichWord-Icon.png",
 	"author": {
 		"name": "Ehsan Mohammadi",
 		"email": "mohammadi.ehsan1994@gmail.com"
