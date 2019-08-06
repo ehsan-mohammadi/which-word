@@ -19,15 +19,20 @@ export function activate(context: vscode.ExtensionContext) {
 		// Get the selected text of the editor
 		const text = editor.document.getText(editor.selection);
 
+		// Wait for response from the API
 		const response = await fetch(`https://api.datamuse.com/words?sl=${text.replace(" ", "+")}`);
 		const data = await response.json();
 
+		// Create a QuickPick to let pick an item from a list
 		const quickPick = vscode.window.createQuickPick();
 		quickPick.items = data.map((x: any) => ({label: x.word}));
 		quickPick.onDidChangeSelection(([item]) => {
 			if(item)
 			{
-				vscode.window.showInformationMessage(item.label);
+				// Replace the word
+				editor.edit((edit) => {
+					edit.replace(editor.selection, item.label);
+				});
 				quickPick.dispose();
 			}
 		});
