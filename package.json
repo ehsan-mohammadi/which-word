@@ -3,12 +3,12 @@
 	"displayName": "Which Word?",
 	"description": "Guess words that sound like your word",
 	"version": "1.0.0",
-	"icon": "/img/WhichWord-Icon.png",
+	"icon": "img/WhichWord-Icon.png",
 	"author": {
 		"name": "Ehsan Mohammadi",
 		"email": "mohammadi.ehsan1994@gmail.com"
 	},
-	"publisher": "Ehsan Mohammadi",
+	"publisher": "EhsanMohammadi",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ehsan-mohammadi/which-word"
