@@ -19,7 +19,7 @@ export function activate(context: vscode.ExtensionContext) {
 		// Get the selected text of the editor
 		const text = editor.document.getText(editor.selection);
 
-		const response = await fetch(`https://api.datamuse.com/words?sl=${text}`);
+		const response = await fetch(`https://api.datamuse.com/words?sl=${text.replace(" ", "+")}`);
 		const data = await response.json();
 
 		const quickPick = vscode.window.createQuickPick();
