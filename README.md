@@ -2,7 +2,7 @@
 
 > A vscode extension to guess words that sound like your word.
 
-<img src="https://github.com/ehsan-mohammadi/which-word/blob/master/img/WhichWord-Icon.png" width="120"/>
+<img src="https://raw.githubusercontent.com/ehsan-mohammadi/which-word/master/img/WhichWord-Icon.png" width="120"/>
 
 When you're coding in `vscode`, you may forget the spelling of an english word! It's take time to check the correct spelling and then return to the vscode and continue coding. So, this extension enables you to correct most mistakes.
 
@@ -10,7 +10,7 @@ When you doubt spelling a word, you can simply highlight that word and then pres
 
 This extension, use [`datamuse API`](https://www.datamuse.com/api/).
 
-<p align="center"><img src="https://github.com/ehsan-mohammadi/which-word/blob/master/img/WhichWord-GIF.gif"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/ehsan-mohammadi/which-word/master/img/WhichWord-GIF.gif"/></p>
 
 ## Getting started
 
