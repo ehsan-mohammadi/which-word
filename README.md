@@ -3,7 +3,7 @@
 > A vscode extension to guess words that sound like your word.
 
 [![License](https://img.shields.io/github/license/ehsan-mohammadi/which-word.svg?color=orange&label=License)](../master/LICENSE)
-[![Microsoft Marketplace](https://img.shields.io/badge/Available%20on-Microsoft%20Visual%20Studio%20Code%20Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
+[![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-Visual%20Studio%20Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
 
 <img src="https://raw.githubusercontent.com/ehsan-mohammadi/which-word/master/img/WhichWord-Icon.png" width="120"/>
 
