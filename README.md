@@ -16,15 +16,14 @@ This extension, use [`datamuse API`](https://www.datamuse.com/api/).
 
 If you just want to use this extension, follow this steps:
 
-- Clone a copy of the repo: `git clone "https://github.com/ehsan-mohammadi/which-word.git"`
-- Change to the directory: `cd which-word`
-- Install dependencies: `npm install`
-- Copy the `which-word` folder under your extensions folder (`.vscode/extensions`). Depending on your platform it is located:
-  - **Windows:** `%USERPROFILE%\.vscode\extensions`
-  - **Linux:** `$HOME/.vscode/extensions`
-  - **Mac:** `$HOME/.vscode/extensions`
+- Open `vscode`
+- Go to `Extensions`
+- Search `"Which Word?"` in Marketplace
+- Install the extension
 
-But if you want to run the extension, follow these simple steps:
+Or simply, Go to the ['Which Word? Marketplace'](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word) and install it.
+
+But if you want to run the extension, follow these steps:
 
 - Clone a copy of the repo: `git clone "https://github.com/ehsan-mohammadi/which-word.git"`
 - Change to the directory: `cd which-word`
