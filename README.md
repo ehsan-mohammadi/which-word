@@ -17,6 +17,8 @@ This extension, use [`datamuse API`](https://www.datamuse.com/api/).
 If you just want to use this extension, follow this steps:
 
 - Clone a copy of the repo: `git clone "https://github.com/ehsan-mohammadi/which-word.git"`
+- Change to the directory: `cd which-word`
+- Install dependencies: `npm install`
 - Copy the `which-word` folder under your extensions folder (`.vscode/extensions`). Depending on your platform it is located:
   - **Windows:** `%USERPROFILE%\.vscode\extensions`
   - **Linux:** `$HOME/.vscode/extensions`
