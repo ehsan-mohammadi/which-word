@@ -2,6 +2,9 @@
 
 > A vscode extension to guess words that sound like your word.
 
+[![License](https://img.shields.io/github/license/ehsan-mohammadi/which-word.svg?color=orange&label=License)](../master/LICENSE)
+[![Microsoft Marketplace](https://img.shields.io/badge/Available%20on-Microsoft%20Visual%20Studio%20Code%20Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
+
 <img src="https://raw.githubusercontent.com/ehsan-mohammadi/which-word/master/img/WhichWord-Icon.png" width="120"/>
 
 When you're coding in `vscode`, you may forget the spelling of an english word! It's take time to check the correct spelling and then return to the vscode and continue coding. So, this extension enables you to correct most mistakes.
