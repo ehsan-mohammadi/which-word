@@ -3,6 +3,15 @@
 	"displayName": "Which Word?",
 	"description": "Guess words that sound like your word",
 	"version": "0.0.1",
+	"author": {
+		"name": "Ehsan Mohammadi",
+		"email": "mohammadi.ehsan1994@gmail.com"
+	},
+	"publisher": "Ehsan Mohammadi",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ehsan-mohammadi/which-word"
+	},
 	"engines": {
 		"vscode": "^1.36.0"
 	},
