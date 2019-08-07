@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/github/license/ehsan-mohammadi/which-word.svg?color=orange&label=License)](../master/LICENSE)
 [![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-Visual%20Studio%20Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
 [![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/EhsanMohammadi.which-word?label=Version&color=green)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
+<br/>
+[![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/EhsanMohammadi.which-word?label=Downloads&color=yellow)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/EhsanMohammadi.which-word?label=Installs&color=darkcyan)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
+[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/EhsanMohammadi.which-word?label=Rating&color=red)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word&ssr=false#review-details)
 
 <img src="https://raw.githubusercontent.com/ehsan-mohammadi/which-word/master/img/WhichWord-Icon.png" width="120"/>
 
