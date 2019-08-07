@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/github/license/ehsan-mohammadi/which-word.svg?color=orange&label=License)](../master/LICENSE)
 [![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-Visual%20Studio%20Marketplace-blue)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/EhsanMohammadi.which-word?color=green)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/EhsanMohammadi.which-word?label=Version&color=green)](https://marketplace.visualstudio.com/items?itemName=EhsanMohammadi.which-word)
 
 <img src="https://raw.githubusercontent.com/ehsan-mohammadi/which-word/master/img/WhichWord-Icon.png" width="120"/>
 
